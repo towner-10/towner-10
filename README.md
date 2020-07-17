@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Profile
 
+<img src="https://cdn.discordapp.com/attachments/503559187826081804/733787187619037334/me.jpg" width="250">
+
 #### About Me
 My name is Collin Town. I am a software developer from Ontario, and I am still in high school. I started to program in 2012 with the Unity game engine.
 
@@ -13,5 +15,4 @@ I am currently working on a mobile app called `Mucy` and is a app focused on men
 #### How to Contact Me?
 You can always send me an email at: collintown@gmail.com or DM me on my other socials.
 
-[![Badge](https://isclrypt2pma.runkit.sh)](https://www.instagram.com/towner_10) 
-<!--[![Badge](https://isclrypt2pma.runkit.sh)](https://twitter.com/towner_10)-->
+[![Badge](https://isclrypt2pma.runkit.sh)](https://www.instagram.com/towner_10) [![Badge](https://usehcakpouaw.runkit.sh)](https://twitter.com/towner_10)
