@@ -12,3 +12,6 @@ I am currently working on a mobile app called `Mucy` and is a app focused on men
 
 #### How to Contact Me?
 You can always send me an email at: collintown@gmail.com or DM me on my other socials.
+
+[![Badge](https://isclrypt2pma.runkit.sh)](https://www.instagram.com/towner_10) 
+<!--[![Badge](https://isclrypt2pma.runkit.sh)](https://twitter.com/towner_10)-->
