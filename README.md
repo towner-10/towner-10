@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile
 
-<img src="https://cdn.discordapp.com/attachments/503559187826081804/733787187619037334/me.jpg" width="250">
+<p align="center"><img src="https://cdn.discordapp.com/attachments/503559187826081804/733787187619037334/me.jpg" width="250"></p>
 
 #### About Me
 My name is Collin Town. I am a software developer from Ontario, and I am still in high school. I started to program in 2012 with the Unity game engine.
