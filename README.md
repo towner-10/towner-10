@@ -1,9 +1,6 @@
 ## Welcome to my GitHub Profile
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/503559187826081804/733787187619037334/me.jpg" width="250">
-  <br>
-  <br>
   <a href="https://www.instagram.com/towner_10">
      <img src="https://8feperz4rovd.runkit.sh">
   </a>
