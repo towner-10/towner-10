@@ -1,19 +1,70 @@
-## Welcome to my GitHub Profile
+<img src="images/header.png">
 
+<br/>
+
+<h1 align="center">Languages + Tools: </h1>
 <p align="center">
-  <a href="https://www.instagram.com/towner_10">
-     <img src="https://8feperz4rovd.runkit.sh">
-  </a>
-  <a href="https://twitter.com/towner_10">
-     <img src="https://usehcakpouaw.runkit.sh">
-  </a>
+   <a href="https://dart.dev/">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+   </a>
+   <a href="https://flutter.dev/">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+   </a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   </a>
+   <a href="https://www.w3schools.com/CPP/default.asp">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   </a>
+   <a href="https://html.com/">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+   </a>
+   <a href="https://www.java.com/en/">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   </a>
+   <a href="https://www.javascript.com/">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   </a>
+   <br/>
+   <a href="https://nodejs.org/en/">
+      <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+   </a>
+   <a href="https://nextjs.org/">
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+   </a>
+   <a href="https://code.visualstudio.com/">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+   </a>
+   <a href="https://www.google.com/intl/en_in/chrome/">
+      <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+   </a>
+   <a href="https://git-scm.com/">
+      <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+   </a>
+   <a href="https://www.mongodb.com/">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   </a>
+<br/>
+
+<h2 align="center">Socials: </h2>  
+<p align="center">
+   <a href="https://www.instagram.com/towner_10">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+   <a href="https://twitter.com/towner_10">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+   </a>
+   <a href="https://www.linkedin.com/in/collin-town-7ba4a1179/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   <a href="mailto:collintown@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
 </p>
 
-#### About Me
-My name is Collin Town. I am a software developer from Ontario, and I am still in high school. I started to program in 2011 with the Unity game engine.
+<br/>
 
-#### Previous Projects
-I have made an assortment of Unity games and a handful of Unreal Engine games in my spare time. I have participated in 3 years of programming with my school's robotics team. I have experience making apps with Flutter and have made some tech tests such as my Onboarding Example project where I convert a mockup UI into working software that works on both iOS and Android. I have made a few programs in Node.JS such as a Snow Day Predictor using the Dark Sky Weather API and Express with Socket.IO to create a chat live chat platform to organize get-togethers during snow-days at school either online or IRL. I have made a Game Engine written in C++ using SDL2 and Box2D for physics, and also using an open-source Lua Interpreter for scripting. I also help maintain [MidiDrumHero](https://github.com/ejj28/mididrumhero) which was written in Python but I helped convert it to Node.JS for a better UI/UX since the older version was cumbersome to use. I assisted in developing the [Regent Granite](https://regentgranite.ca/) website. I completed a few closed-source projects such as a Minecraft Server status bot, an administration bot, and a music player bot for a private Discord server hosted using AWS. And, like every other developer, there are many other projects I have scrapped because I got bored.
+<h1 align="center">📊 Github Stats</h1>
 
-#### How to Contact Me?
-You can always send me an email at: collintown@gmail.com or DM me on my other socials.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=towner-10&theme=github_dark)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=towner-10&theme=github_dark)]()
