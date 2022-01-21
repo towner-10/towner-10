@@ -2,6 +2,14 @@
 
 <br/>
 
+### So what about me?
+- 🎓 Current Software Engineering student at Western University
+- 📚 Currently learning how to use Rust and using it to build server-side software
+- 🤖 FRC Programming Mentor
+- ⛵ Sailing is cool
+
+<br/>
+
 <h1 align="center">Languages + Tools: </h1>
 <p align="center">
    <a href="https://dart.dev/">
