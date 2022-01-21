@@ -64,7 +64,11 @@
 
 <br/>
 
-<h1 align="center">📊 Github Stats</h1>
+<h1>📊 Github Stats</h1>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=towner-10&theme=github_dark)]()
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=towner-10&theme=github_dark)]()
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=towner-10&theme=github_dark&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towner-10&theme=github_dark&layout=compact" />
+</a>
