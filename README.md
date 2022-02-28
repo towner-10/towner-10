@@ -5,8 +5,9 @@
 ### So what about me?
 - 🎓 Current Software Engineering student at Western University
 - 📚 Currently learning how to use Rust and using it to build server-side software
-- 🤖 FRC Programming Mentor
+- 👨‍🏫 Sailing Instructor
 - ⛵ Sailing is cool
+- 🤖 FRC Programming Mentor
 
 <br/>
 
