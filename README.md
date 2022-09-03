@@ -6,7 +6,6 @@
 - 🎓 Current Software Engineering student at Western University
 - 📚 Currently learning how to use Rust and using it to build server-side software
 - 👨‍🏫 Sailing Instructor
-- ⛵ Sailing is cool
 - 🤖 FRC Programming Mentor
 
 <br/>
