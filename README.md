@@ -1,6 +1,6 @@
 <img src="images/header.png">
 
-
+SWE Research Intern @ NTP (Northern Tornadoes Project)
 
 ### So what about me?
 - 🎓 Current Software Engineering student at Western University
