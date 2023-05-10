@@ -72,13 +72,6 @@ SWE Research Intern @ NTP (Northern Tornadoes Project)
 
 <br/>
 
-<h2 align="center">Now Playing: </h2>
-<div align="center">
-   <img src="https://www.collin.town/api/now-playing/image"></img>
-   <p>Check this out on <a href="https://www.collin.town/">my website</a>.</p>
-</div>
-<br/>
-
 <h1>📊 Github Stats</h1>
 
 <a href="https://github.com/towner-10">
