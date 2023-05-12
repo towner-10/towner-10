@@ -52,6 +52,17 @@ SWE Research Intern @ NTP (Northern Tornadoes Project)
    <a href="https://www.mongodb.com/">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    </a>
+</p>
+<br/>
+
+<h2 align="center">Now Playing</h2>
+<p align="center">
+   <img src="https://my-spotify-status-widget.vercel.app/api/now-playing/image" />
+   <p align="center">
+      Check out <a href="https://github.com/towner-10/spotify-status-widget">spotify-status-widget</a> to get your own!
+   </p>
+</p>
+
 <br/>
 
 <h2 align="center">Socials: </h2>  
