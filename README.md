@@ -80,14 +80,3 @@ SWE Research Intern @ NTP (Northern Tornadoes Project)
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
 </p>
-
-<br/>
-
-<h1>📊 Github Stats</h1>
-
-<a href="https://github.com/towner-10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=towner-10&theme=github_dark&hide=stars" />
-</a>
-<a href="https://github.com/towner-10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towner-10&theme=github_dark&layout=compact" />
-</a>
