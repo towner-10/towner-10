@@ -10,51 +10,6 @@ SWE Research Intern @ NTP (Northern Tornadoes Project)
 
 <br/>
 
-<h1 align="center">Languages + Tools: </h1>
-<p align="center">
-   <a href="https://dart.dev/">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-   </a>
-   <a href="https://flutter.dev/">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   </a>
-   <a href="https://www.w3schools.com/CPP/default.asp">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-   </a>
-   <a href="https://html.com/">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-   </a>
-   <a href="https://www.java.com/en/">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   </a>
-   <a href="https://www.javascript.com/">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   </a>
-   <br/>
-   <a href="https://nodejs.org/en/">
-      <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-   </a>
-   <a href="https://nextjs.org/">
-      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-   </a>
-   <a href="https://code.visualstudio.com/">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-   </a>
-   <a href="https://www.google.com/intl/en_in/chrome/">
-      <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-   </a>
-   <a href="https://www.mongodb.com/">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-   </a>
-</p>
-<br/>
-
 <h2 align="center">Now Playing</h2>
 <p align="center">
    <img src="https://my-spotify-status-widget.vercel.app/api/now-playing/image" />
