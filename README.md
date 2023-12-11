@@ -31,7 +31,4 @@ SWE Research Intern @ NTP (Northern Tornadoes Project)
    <a href="https://www.linkedin.com/in/collin-town-7ba4a1179/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="mailto:collintown@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
 </p>
