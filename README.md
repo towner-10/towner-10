@@ -1,6 +1,6 @@
 <img src="images/header.png">
 
-SWE Intern @ NAVBLUE, an Airbus Company
+SWE Intern @ NAVBLUE, an Airbus Company<br/>
 SWE Research Intern @ CSSL
 
 ### So what about me?
