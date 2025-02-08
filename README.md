@@ -1,11 +1,11 @@
 <img src="images/header.png">
 
-SWE Research Intern @ NTP (Northern Tornadoes Project)
+SWE Intern @ NAVBLUE, an Airbus Company
+SWE Research Intern @ CSSL
 
 ### So what about me?
 - 🎓 Current Software Engineering student at Western University
-- 📚 Currently learning how to use Rust and using it to build server-side software
-- 🤖 FRC Programming Mentor
+- 📚 Currently creating the Canadian Mesonet Portal
 
 <br/>
 
