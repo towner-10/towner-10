@@ -1,13 +1,4 @@
-<img src="images/header.png">
-
-SWE Intern @ NAVBLUE, an Airbus Company<br/>
-SWE Research Intern @ CSSL
-
-### So what about me?
-- 🎓 Current Software Engineering student at Western University
-- 📚 Currently creating the Canadian Mesonet Portal
-
-<br/>
+thanks for reading the readme 🙂
 
 <h2 align="center">Now Playing</h2>
 <p align="center">
